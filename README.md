@@ -9,5 +9,5 @@ This is a repository containing Machine Learning algorithms implemented from scr
 	- [x] Batch Gradient Descent
 	- [x] Mini-Batch Gradient Descent
 	- [x] Stochastic Gradient Descent
-	- [ ] Locally Weighted Linear Regression
+	- [x] Locally Weighted Linear Regression (using statsmodels)
 - [ ] Logistic Regression
